@@ -1,0 +1,10 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\bin\Debug\myApplication.exe.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\bin\Debug\myApplication.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\bin\Debug\myApplication.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.csprojAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.Form1.resources
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.Properties.Resources.resources
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.csproj.GenerateResource.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.exe
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\myApplication\myApplication\obj\Debug\myApplication.pdb
