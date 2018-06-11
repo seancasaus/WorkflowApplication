@@ -1,0 +1,7 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\bin\WorkflowService.dll.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\bin\WorkflowService.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\bin\WorkflowService.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\obj\Debug\WorkflowService.csprojAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\obj\Debug\WorkflowService.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\obj\Debug\WorkflowService.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment2\WorkFlowService\WorkflowService\WorkflowService\obj\Debug\WorkflowService.pdb
