@@ -1,2 +1,2 @@
 # WorkflowApplication
-An application that uses a WCF Workflow RESTful Service as a tip calculator
+A WCF Workflow RESTful Service that acts as a tip calculator
